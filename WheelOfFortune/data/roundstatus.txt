@@ -1,0 +1,5 @@
+We are closing out on Round #{num}! 
+Let's look at the current status of our contestants! 
+Our first contestant: {contestant1} has earned a total of ${money1} in this game.
+Our second contestant: {contestant2} has earned a total of ${money2} in this game.
+And our last, but not least, contestant: {contestant3} has earned a total of ${money3}.

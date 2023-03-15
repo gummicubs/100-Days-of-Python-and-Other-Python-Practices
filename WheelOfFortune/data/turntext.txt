@@ -1,0 +1,3 @@
+It is {contestant}'s turn. {contestant} has earned ${money} for this round so far. 
+{contestant}, would you like spin the wheel, buy a vowel or guess the word? 
+Please use "S" to spin the wheel, "B" to buy a vowel and "G" to guess the word.

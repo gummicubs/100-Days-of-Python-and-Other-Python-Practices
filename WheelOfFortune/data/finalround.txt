@@ -1,0 +1,3 @@
+For our final round, the contestant with the highest score is {winner}!
+A new word has been randomly selected and the letters that are 'R', 'S', 'T', 'L', 'N' and 'E' will reveal themselves. 
+You get to guess three consonants and one vowel. Then you can guess the word. Here we go!
